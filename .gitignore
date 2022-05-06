@@ -1,0 +1,6 @@
+# object files
+obj
+*.o
+
+# name
+minishell
